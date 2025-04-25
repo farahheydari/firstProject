@@ -1,0 +1,27 @@
+*,*::before,*::after{margin: 0; padding: 0; box-sizing: border-box;}
+
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+a{
+    color: inherit;
+    &:visited{
+        color: inherit;
+    }
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.center{
+    justify-content: center;
+    align-items: center;
+}

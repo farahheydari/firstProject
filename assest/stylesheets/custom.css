@@ -1,0 +1,16 @@
+.btnHref{
+    display: flex;
+    width: 230px;
+    height: 65px;
+    background-color:#d4967d;
+    color: white !important;
+    text-transform: capitalize;
+    font-size: 18px;
+    justify-content: center;
+    align-items: center;
+    transition: 1s;
+    &:hover{
+        background-color: #8d5d49;
+        border-radius: 50%;
+    }
+}
