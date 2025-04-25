@@ -4,7 +4,7 @@
 
 ![Image](https://github.com/user-attachments/assets/636abe41-4c8f-4b62-b43c-4eacaaa28b42)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![Image](https://github.com/user-attachments/assets/f2305334-24f6-4b95-ae2f-faee5308eae0)
 
 - [Demo Project](https://farahheydari.github.io/firstProject/)
 
